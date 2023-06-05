@@ -1,0 +1,56 @@
+.tamil{
+  display: flex;
+  flex-direction: row;
+  max-width: 850px;
+  margin: 1.5rem auto;
+  gap: 3rem;
+}
+.ima{
+  height: 90px;
+  width: 90px;
+  border-radius: 60px;
+}
+.nam{
+  margin-top: 30px;
+  margin-left:10px ;
+  text-align: start;
+}
+.cour{
+  margin-top: 30px;
+  margin-left:40px ;
+  text-align: start;
+}
+.our{
+  margin-top: 30px;
+  margin-left: 40px;
+  text-align: start;
+}
+.but{
+  margin-top: 30px;
+  margin-left:10px ;
+}
+.add-user{
+  display: flex;
+  flex-direction: column;
+  max-width: 350px;
+  margin: 1rem auto;
+  gap: 0.8rem;
+  
+}
+
+.nam1{
+margin-top: 30px;
+  margin-left:40px;
+}
+.cour1{
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.ema{
+  margin-top: 30px;
+  margin-left: 103px;
+}
+.num{
+  margin-top: 30px;
+  margin-left: 90px;
+}
